@@ -46,7 +46,23 @@ DATSURŌ is not a productivity drill sergeant. It is a tiny mascot cheering you 
 | 🎨 **Personalization** | Choose a username, light or dark appearance, and one of four supported languages. |
 | 📦 **Portable backups** | Export or import a ZIP backup of your profile and available diary photos. |
 
-## 🧭 Explore the app
+### 🧭 Explore the app
+
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="DATSURŌ Home screen" width="220" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/grassdex.png" alt="DATSURŌ Grassdex" width="220" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/daily-memory.png" alt="DATSURŌ Daily Memory" width="220" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/diary.png" alt="DATSURŌ Diary" width="220" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/settings.png" alt="DATSURŌ Settings" width="220" />
+</p>
+
+<p align="center"><em>Your home base, stamp collection, daily memories, diary, and settings.</em></p>
 
 ### 🏡 Home
 
