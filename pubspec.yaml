@@ -1,0 +1,46 @@
+name: datsuro
+description: DATSURŌ — a local-first anti-hikikomori diary game.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  geocoding: ^5.0.0
+  permission_handler: ^12.0.3
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.3.2
+  image_picker: ^1.1.2
+  path_provider: ^2.1.4
+  geolocator: ^13.0.1
+  flutter_local_notifications: ^17.2.3
+  archive: ^3.6.1
+  file_picker: ^10.3.6
+  share_plus: ^10.0.2
+  intl: ^0.20.2
+  timezone: ^0.9.4
+  flutter_timezone: ^4.1.1
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mascot/datsuro_mascot.png
+    - assets/data/countries.json
+
+flutter_launcher_icons:
+  android: true
+  image_path: assets/mascot/datsuro_mascot.png
+  adaptive_icon_background: '#F5F2E9'
+  adaptive_icon_foreground: assets/mascot/datsuro_mascot.png
